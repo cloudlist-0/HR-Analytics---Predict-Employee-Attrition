@@ -12,11 +12,11 @@ The goal is to provide the HR department with actionable insights and a predicti
 * **Power BI:** Interactive dashboard for visualizing attrition KPIs.
 
 ## 📂 Files in this Repository
-* **`HR_Analysis.ipynb`**: The main Jupyter Notebook containing all Python code (EDA, Preprocessing, Model Building).
+* **` HR_Analysis.ipynb`**: The main Jupyter Notebook containing all Python code (EDA, Preprocessing, Model Building).
 * **`hr_data.csv`**: The original raw dataset (Source: IBM HR Analytics).
 * **`hr_data_processed.csv`**: The cleaned dataset used for the Power BI dashboard.
-* **`Dashboard.pdf`**: A static PDF export of the interactive Power BI dashboard.
-* **`Final_Project_Report.pdf`**: A detailed 2-page report including the abstract, steps, and strategic recommendations.
+* **`HR_Analysis_dashboard.pdf`**: A static PDF export of the interactive Power BI dashboard.
+* **`HR Analytics report.pdf`**: A detailed 2-page report including the abstract, steps, and strategic recommendations.
 
 ## 📊 Key Insights
 * **Income Matters:** Employees with lower monthly incomes are significantly more likely to leave.
@@ -42,6 +42,6 @@ The goal is to provide the HR department with actionable insights and a predicti
 * **Metric:** Optimized for Recall to ensure we catch as many "at-risk" employees as possible.
 
 ## 👤 Author
-**[Your Name]**
+**Shawn Thomas**
 * Data Analyst Intern
-* [Link to your LinkedIn Profile]
+  
